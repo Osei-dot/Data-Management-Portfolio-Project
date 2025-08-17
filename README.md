@@ -26,6 +26,6 @@ Design and implement a relational PostgreSQL database
 Use SQL to develop analytics-ready database views
 
 # Prerequisites:
-Pandas
-SQL
-Knowledge of data cleaning
+Pandas,
+SQL,
+Knowledge of data cleaning.
