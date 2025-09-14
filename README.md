@@ -6,7 +6,7 @@ It demonstrates best practices in data wrangling, database design, querying, and
 
 # The project emphasizes:
 
-1. Combining data from multiple sourzes using glob library
+1. Combining data from multiple sourses using glob library
 
 2. Cleaning and transforming raw datasets.
 
